@@ -1,4 +1,4 @@
-# NLP_DL_Workshop
+# NLP Deep Learning Workshop
 
 In this workshop, we will be doing some hands-on leveraging pre-trained models using DL. 
 
