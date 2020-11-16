@@ -14,6 +14,7 @@ All the setup is done within the notebook, to run this open with collab
   -- We will do some final fine-tuning on NER Dataset
 
 ## Using Doccano:
-Lastly, we'll learn about Docanno and how to annotate our own data using Docanno
- ** Note: To set up docann, use docanno labelling guide
+Lastly, we'll learn about Docanno and how to annotate our own data using Docanno              
+ ** Note: To set up docanno, use docanno labelling guide
+ 
 
